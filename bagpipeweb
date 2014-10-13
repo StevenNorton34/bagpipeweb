@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    <meta charset="utf-8">
+  <title>Home Page</title>
+  <link rel="stylesheet" href="file:///Users/StevenSeamus/Desktop/bagpipeweb.css" type="text/css">
+  </title>
+</head>
+<body>
+   <div class="jumbotron">
+      <div class="container">
+        <h1>Cead Mile Failte</h1>
+        <p><h2>Steven Norton</h2></p>
+        <p><h3>Professional Bagpiper since 1999</h3></p>
+      </div>
+  </div>
+
+  <div class="page2">
+     <div class="container">
+     <p style="text-align:left; font-size:30px">Noteworthy Performances</p>
+       <ul id="performances-list">
+         <li>Performed for Conan O’Brien</li>
+         <li>The Oakland Athletics Baseball Team </li>
+         <li>The Oakland Raiders Football Team </li>
+         <li>The San Jose Sharks Hockey Team </li>
+         <li>Personal escort for 4 Lord Mayors of Dublin, Ireland</li>
+         <li>Performed for Colm Meany from Star Trek </li>
+       </ul>
+     </div>
+     </div>
+
+<div class="page3">
+   <div class="container">
+<p style="text-align:left; font-size:30px">Awards & Accomplishments</p>
+<p style="text-align:left">Won the 2000 Pleasanton World Games Competition as a
+member of the Alameda County Sheriffʼs Bagpipe Band.</p>
+<p style="text-align:left">Featured artist on the album, “Something New For Your
+Old Radio”</p>
+</div>
+</div>
+
+<div class="page4">
+   <div class="container">
+   <p style="font-size:30px">Band Affiliation</p>
+   <p>The Cunningham Cousins, Bronx, NY</p>
+   </div>
+   </div>
+
+  <div class="page5">
+     <div class="container">
+<p style="text-align:left">I am available to discuss inquiries regarding ANY and ALL musical
+arrangements.  professional athletic events, royalty, corporate events/parties, weddings, funerals, and other special accommodations.</p>
+     </div>
+     </div>
+
+     <div class="page6">
+        <div class="container">
+     I specialize in <span style="color:blue">Scottish</span> and <span style="color:green">Irish</span>
+     ensembles and can be reached by phone at 408-306-6420 or via email at <em>Irishpipes7@yahoo.com</em>.
+</div>
+</div>
+
+
+  </body>
+</html>
